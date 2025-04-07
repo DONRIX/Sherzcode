@@ -51,10 +51,10 @@ String VAULT_PIN = "1234";  // Set password
 String inputPassword = ""; // Store entered password
 
 
-String botToken = "7243738739:AAEITFBkHOentOAdI5y1_l_IkLWPC0LIL30";  // From BotFather
+String botToken = "97987999764376474";  // From BotFather telgram
 // String chatID = "5176254934";  // From @userinfobot
 String message = "Intruder Alert! ";
-String chatID = "7475664738";  // From @userinfobot
+String chatID = "314212636236";  // From @userinfobot telegram
 
 boolean pin_is_correct = false;
 
